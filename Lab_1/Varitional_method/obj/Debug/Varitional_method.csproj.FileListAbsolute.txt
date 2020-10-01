@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Gausse_method\Varitional_method\bin\Debug\Varitional_method.exe.config
+C:\Users\oleg\source\repos\Gausse_method\Varitional_method\bin\Debug\Varitional_method.exe
+C:\Users\oleg\source\repos\Gausse_method\Varitional_method\bin\Debug\Varitional_method.pdb
+C:\Users\oleg\source\repos\Gausse_method\Varitional_method\obj\Debug\Varitional_method.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Gausse_method\Varitional_method\obj\Debug\Varitional_method.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Gausse_method\Varitional_method\obj\Debug\Varitional_method.exe
+C:\Users\oleg\source\repos\Gausse_method\Varitional_method\obj\Debug\Varitional_method.pdb

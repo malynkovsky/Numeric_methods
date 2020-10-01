@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Rational_Aproximation\Rational_Aproximation\bin\Debug\Rational_Aproximation.exe.config
+C:\Users\oleg\source\repos\Rational_Aproximation\Rational_Aproximation\bin\Debug\Rational_Aproximation.exe
+C:\Users\oleg\source\repos\Rational_Aproximation\Rational_Aproximation\bin\Debug\Rational_Aproximation.pdb
+C:\Users\oleg\source\repos\Rational_Aproximation\Rational_Aproximation\obj\Debug\Rational_Aproximation.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Rational_Aproximation\Rational_Aproximation\obj\Debug\Rational_Aproximation.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Rational_Aproximation\Rational_Aproximation\obj\Debug\Rational_Aproximation.exe
+C:\Users\oleg\source\repos\Rational_Aproximation\Rational_Aproximation\obj\Debug\Rational_Aproximation.pdb

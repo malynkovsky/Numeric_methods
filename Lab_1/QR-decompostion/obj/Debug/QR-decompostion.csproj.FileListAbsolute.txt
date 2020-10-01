@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Gausse_method\QR-decompostion\obj\Debug\QR-decompostion.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Gausse_method\QR-decompostion\obj\Debug\QR-decompostion.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Gausse_method\QR-decompostion\bin\Debug\QR-decompostion.exe.config
+C:\Users\oleg\source\repos\Gausse_method\QR-decompostion\bin\Debug\QR-decompostion.exe
+C:\Users\oleg\source\repos\Gausse_method\QR-decompostion\bin\Debug\QR-decompostion.pdb
+C:\Users\oleg\source\repos\Gausse_method\QR-decompostion\obj\Debug\QR-decompostion.exe
+C:\Users\oleg\source\repos\Gausse_method\QR-decompostion\obj\Debug\QR-decompostion.pdb

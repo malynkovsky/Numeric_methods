@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Gausse_method\Simple_iterations\bin\Debug\Simple_iterations.exe.config
+C:\Users\oleg\source\repos\Gausse_method\Simple_iterations\bin\Debug\Simple_iterations.exe
+C:\Users\oleg\source\repos\Gausse_method\Simple_iterations\bin\Debug\Simple_iterations.pdb
+C:\Users\oleg\source\repos\Gausse_method\Simple_iterations\obj\Debug\Simple_iterations.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Gausse_method\Simple_iterations\obj\Debug\Simple_iterations.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Gausse_method\Simple_iterations\obj\Debug\Simple_iterations.exe
+C:\Users\oleg\source\repos\Gausse_method\Simple_iterations\obj\Debug\Simple_iterations.pdb

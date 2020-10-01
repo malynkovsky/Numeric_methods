@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Gausse_method\Gausse_method\bin\Debug\Gausse_method.exe.config
+C:\Users\oleg\source\repos\Gausse_method\Gausse_method\bin\Debug\Gausse_method.exe
+C:\Users\oleg\source\repos\Gausse_method\Gausse_method\bin\Debug\Gausse_method.pdb
+C:\Users\oleg\source\repos\Gausse_method\Gausse_method\obj\Debug\Gausse_method.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Gausse_method\Gausse_method\obj\Debug\Gausse_method.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Gausse_method\Gausse_method\obj\Debug\Gausse_method.exe
+C:\Users\oleg\source\repos\Gausse_method\Gausse_method\obj\Debug\Gausse_method.pdb

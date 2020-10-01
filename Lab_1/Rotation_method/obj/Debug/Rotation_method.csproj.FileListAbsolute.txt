@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Gausse_method\Rotation_method\bin\Debug\Rotation_method.exe.config
+C:\Users\oleg\source\repos\Gausse_method\Rotation_method\bin\Debug\Rotation_method.exe
+C:\Users\oleg\source\repos\Gausse_method\Rotation_method\bin\Debug\Rotation_method.pdb
+C:\Users\oleg\source\repos\Gausse_method\Rotation_method\obj\Debug\Rotation_method.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Gausse_method\Rotation_method\obj\Debug\Rotation_method.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Gausse_method\Rotation_method\obj\Debug\Rotation_method.exe
+C:\Users\oleg\source\repos\Gausse_method\Rotation_method\obj\Debug\Rotation_method.pdb

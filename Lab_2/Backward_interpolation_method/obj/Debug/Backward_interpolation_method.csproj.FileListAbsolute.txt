@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Lab_2\Backward_interpolation_method\bin\Debug\Backward_interpolation_method.exe.config
+C:\Users\oleg\source\repos\Lab_2\Backward_interpolation_method\bin\Debug\Backward_interpolation_method.exe
+C:\Users\oleg\source\repos\Lab_2\Backward_interpolation_method\bin\Debug\Backward_interpolation_method.pdb
+C:\Users\oleg\source\repos\Lab_2\Backward_interpolation_method\obj\Debug\Backward_interpolation_method.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Lab_2\Backward_interpolation_method\obj\Debug\Backward_interpolation_method.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Lab_2\Backward_interpolation_method\obj\Debug\Backward_interpolation_method.exe
+C:\Users\oleg\source\repos\Lab_2\Backward_interpolation_method\obj\Debug\Backward_interpolation_method.pdb

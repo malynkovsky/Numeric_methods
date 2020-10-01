@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Lab_2\Ordianry_less_squares_method\bin\Debug\Ordianry_less_squares_method.exe.config
+C:\Users\oleg\source\repos\Lab_2\Ordianry_less_squares_method\bin\Debug\Ordianry_less_squares_method.exe
+C:\Users\oleg\source\repos\Lab_2\Ordianry_less_squares_method\bin\Debug\Ordianry_less_squares_method.pdb
+C:\Users\oleg\source\repos\Lab_2\Ordianry_less_squares_method\obj\Debug\Ordianry_less_squares_method.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Lab_2\Ordianry_less_squares_method\obj\Debug\Ordianry_less_squares_method.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Lab_2\Ordianry_less_squares_method\obj\Debug\Ordianry_less_squares_method.exe
+C:\Users\oleg\source\repos\Lab_2\Ordianry_less_squares_method\obj\Debug\Ordianry_less_squares_method.pdb

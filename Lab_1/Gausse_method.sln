@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gausse_method", "Gausse_method\Gausse_method.csproj", "{DF11CF2F-FED8-42E0-A7D5-2EE848DFDCD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seidel_method", "Seidel_method\Seidel_method.csproj", "{166AEB95-E04C-4D47-A439-D57137BF8B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple_iterations", "Simple_iterations\Simple_iterations.csproj", "{DDCE5C82-DFB1-47B8-A73A-D4042CB5F9AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR-decompostion", "QR-decompostion\QR-decompostion.csproj", "{68DEC6A2-6B82-46BB-A2AC-78B29C4591BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotation_method", "Rotation_method\Rotation_method.csproj", "{81FBC898-2D4F-4D5F-BC23-472E5B1F5CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Varitional_method", "Varitional_method\Varitional_method.csproj", "{98DAD207-55E5-4B87-9F66-13BD3FA8083D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF11CF2F-FED8-42E0-A7D5-2EE848DFDCD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF11CF2F-FED8-42E0-A7D5-2EE848DFDCD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF11CF2F-FED8-42E0-A7D5-2EE848DFDCD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF11CF2F-FED8-42E0-A7D5-2EE848DFDCD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166AEB95-E04C-4D47-A439-D57137BF8B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166AEB95-E04C-4D47-A439-D57137BF8B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166AEB95-E04C-4D47-A439-D57137BF8B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166AEB95-E04C-4D47-A439-D57137BF8B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDCE5C82-DFB1-47B8-A73A-D4042CB5F9AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCE5C82-DFB1-47B8-A73A-D4042CB5F9AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCE5C82-DFB1-47B8-A73A-D4042CB5F9AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCE5C82-DFB1-47B8-A73A-D4042CB5F9AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DEC6A2-6B82-46BB-A2AC-78B29C4591BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DEC6A2-6B82-46BB-A2AC-78B29C4591BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DEC6A2-6B82-46BB-A2AC-78B29C4591BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DEC6A2-6B82-46BB-A2AC-78B29C4591BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81FBC898-2D4F-4D5F-BC23-472E5B1F5CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81FBC898-2D4F-4D5F-BC23-472E5B1F5CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81FBC898-2D4F-4D5F-BC23-472E5B1F5CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81FBC898-2D4F-4D5F-BC23-472E5B1F5CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98DAD207-55E5-4B87-9F66-13BD3FA8083D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98DAD207-55E5-4B87-9F66-13BD3FA8083D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98DAD207-55E5-4B87-9F66-13BD3FA8083D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98DAD207-55E5-4B87-9F66-13BD3FA8083D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68B7749-82D7-480B-A540-E0E519B159E4}
+	EndGlobalSection
+EndGlobal

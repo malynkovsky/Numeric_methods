@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Lab_2\Gradient_Descent_method\bin\Debug\Gradient_Descent_method.exe.config
+C:\Users\oleg\source\repos\Lab_2\Gradient_Descent_method\bin\Debug\Gradient_Descent_method.exe
+C:\Users\oleg\source\repos\Lab_2\Gradient_Descent_method\bin\Debug\Gradient_Descent_method.pdb
+C:\Users\oleg\source\repos\Lab_2\Gradient_Descent_method\obj\Debug\Gradient_Descent_method.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Lab_2\Gradient_Descent_method\obj\Debug\Gradient_Descent_method.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Lab_2\Gradient_Descent_method\obj\Debug\Gradient_Descent_method.exe
+C:\Users\oleg\source\repos\Lab_2\Gradient_Descent_method\obj\Debug\Gradient_Descent_method.pdb

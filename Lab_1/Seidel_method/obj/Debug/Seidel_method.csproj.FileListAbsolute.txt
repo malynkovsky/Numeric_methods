@@ -1,0 +1,7 @@
+C:\Users\oleg\source\repos\Gausse_method\Seidel_method\obj\Debug\Seidel_method.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\Gausse_method\Seidel_method\obj\Debug\Seidel_method.csproj.CoreCompileInputs.cache
+C:\Users\oleg\source\repos\Gausse_method\Seidel_method\bin\Debug\Seidel_method.exe.config
+C:\Users\oleg\source\repos\Gausse_method\Seidel_method\bin\Debug\Seidel_method.exe
+C:\Users\oleg\source\repos\Gausse_method\Seidel_method\bin\Debug\Seidel_method.pdb
+C:\Users\oleg\source\repos\Gausse_method\Seidel_method\obj\Debug\Seidel_method.exe
+C:\Users\oleg\source\repos\Gausse_method\Seidel_method\obj\Debug\Seidel_method.pdb
